@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Sobre Nosotros
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+¡Bienvenido a EXAMEN SEMESTRE 1! Es una pagina para evaluar mis capacidades y conocimientos en el tema de Jekyll
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Nuestra Misión
 
+Intento aprovar mi semestre de Introduccion a sistemas de computo
 
-[jekyll-organization]: https://github.com/jekyll
+### ¿Quiénes Somos?
+
+Soy solo un estudiante de la Universidad Mariano Galvez
+### Contáctanos
+
+Si tienes preguntas, sugerencias, ¡no dudes en escribir a pg4099383@gmail.com! También puedes seguirnos en nuestras redes sociales para más contenido y actualizaciones.
+
+---
+Gracias por visitarnos y ser parte de nuestra comunidad. ¡Esperamos que disfrutes tu tiempo aquí!
