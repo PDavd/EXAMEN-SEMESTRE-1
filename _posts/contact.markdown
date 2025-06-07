@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Contatc
 permalink: /contact/
 ---
@@ -20,4 +20,3 @@ Me encataria recibir tus sugerencias o cualqiuier tipo de informacion para mejor
 ---
 
 ¡Esperamos tu mensaje pronto!
-
